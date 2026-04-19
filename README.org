@@ -4,6 +4,6 @@ DRef is a library for definition introspection, a bit like sb-introspect, but po
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/melisgl/dref.git                   |
-| commit  | 0000000                                                    |
+| commit  | a798af7                                                    |
 | systems | -depends-on dref dref/full                                |
 |---------+------------------------------------------------------------|
