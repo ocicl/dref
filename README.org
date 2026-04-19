@@ -1,0 +1,9 @@
+* dref
+
+DRef is a library for definition introspection, a bit like sb-introspect, but portable.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/melisgl/dref.git                   |
+| commit  | 0000000                                                    |
+| systems | -depends-on dref dref/full                                |
+|---------+------------------------------------------------------------|
